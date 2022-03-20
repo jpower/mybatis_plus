@@ -17,6 +17,7 @@ public class MybatisPlusApplication {
         System.out.println("sdf123");
         System.out.println("hot-fix");
         System.out.println("大SB112312312312");
+        System.out.println("0818");
     }
 
 }
