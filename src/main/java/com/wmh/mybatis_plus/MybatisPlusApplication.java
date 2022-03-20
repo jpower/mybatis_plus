@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 @SpringBootApplication
 public class MybatisPlusApplication {
     public void fun1(){
-        System.out.println("大SB");
+        System.out.println("大SB22222");
     }
 
     public static void main(String[] args) {
