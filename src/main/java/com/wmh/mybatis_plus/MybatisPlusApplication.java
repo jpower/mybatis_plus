@@ -17,6 +17,7 @@ public class MybatisPlusApplication {
         System.out.println("sdf");
         System.out.println("hot-fix");
         System.out.println("sb");
+        System.out.println("大SB1");
     }
 
 }
