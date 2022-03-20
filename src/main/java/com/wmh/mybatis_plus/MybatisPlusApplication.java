@@ -19,7 +19,7 @@ public class MybatisPlusApplication {
         System.out.println("大SB112312312312");
         System.out.println("0818222");
         System.out.println(123);
-        System.out.println(12312312332423);
+        System.out.println(12312312332423L);
         System.out.println("sdfsdfsdf");
         System.out.println(12312123);
     }
