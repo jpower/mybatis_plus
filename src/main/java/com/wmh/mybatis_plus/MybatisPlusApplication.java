@@ -14,7 +14,7 @@ public class MybatisPlusApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MybatisPlusApplication.class, args);
-        System.out.println("sdf123421231233232233");
+        System.out.println("sd232233");
         System.out.println("hot-fix");
         System.out.println(818);
     }
