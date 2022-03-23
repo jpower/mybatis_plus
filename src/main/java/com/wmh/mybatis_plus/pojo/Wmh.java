@@ -8,4 +8,5 @@ import java.util.Date;
 public class Wmh {
 //    private Date createTime;
     private String name;
+    private int age;
 }
